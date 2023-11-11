@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1699711035265,
+      "tag": "0000_steady_dakota_north",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1699720855585,
+      "tag": "0001_secret_bromley",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1699723091651,
+      "tag": "0002_mushy_phantom_reporter",
+      "breakpoints": true
+    }
+  ]
+}
