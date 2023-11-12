@@ -104,7 +104,7 @@ module.exports = {
 				"Neutrals/neutrals-13": "#020014",
 				"brand-washedPurple": "#b5b2ff",
 				"brand-washedBlue": "#6889ff",
-				"brand-primaryBlue": "#0469ff",
+				"brand-primaryBlue": "#db0764",
 				"brand-primaryPurple": "#7000ff",
 				"brand-dark": "#030014",
 			},

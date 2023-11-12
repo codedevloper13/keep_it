@@ -3,7 +3,7 @@
 import React from "react";
 
 interface TitleSectionProps {
-	title: string;
+	title: string | React.ReactNode; // Allow either string or JSX elements
 	subheading?: string;
 	pill: string;
 }
